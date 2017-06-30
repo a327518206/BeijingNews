@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:id="@+id/rl_splash"
     android:background="@android:color/holo_red_light"
-    tools:context="com.example.beijingnews.SplashAcitvity">
+    tools:context="com.example.beijingnews.activity.SplashAcitvity">
 
     <TextView
         android:layout_centerInParent="true"
